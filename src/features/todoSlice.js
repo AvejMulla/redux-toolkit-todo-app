@@ -1,0 +1,4 @@
+{
+   todos: [],
+   filter: "all"
+}
